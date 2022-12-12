@@ -4,8 +4,8 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <h2><b>DID YOU KNOW?</b></h2>
-        <p>Chickens are descendants of dinosaurs.</p>
+        <h2><b>Taylor Swift</b></h2>
+        <p>December 13, 1989</p>
  
         
       </div>
