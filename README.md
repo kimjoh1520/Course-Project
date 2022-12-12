@@ -1,3 +1,9 @@
+This is the beginning of new design for Taylor Swifts Merchandise website. Featuring a cleaner and more organized layout with linked pages to each individual Era which will house available products for sale. 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
